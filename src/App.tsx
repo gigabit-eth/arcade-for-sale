@@ -35,7 +35,7 @@ function App() {
           </div>
 
           <div className="text-center mb-12">
-            <h1 className="font-arcade text-4xl md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-300 via-pink-300 to-purple-300 mb-6 tracking-tight leading-relaxed">
+            <h1 className="font-arcade text-2xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-300 via-pink-300 to-purple-300 mb-6 tracking-tight leading-relaxed">
               arcade.lol
             </h1>
             <p className="text-2xl text-purple-200/90">
